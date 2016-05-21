@@ -1,0 +1,17 @@
+body {
+	background-color: yellow;
+}
+.title {
+	text-align:center;
+	font-size:50px;
+	color:blue;
+}
+.correct {
+	color:green;
+}
+.incorrect {
+	color:red;
+	}
+h1.correct, h1.incorrect {
+	width:250px;
+}
